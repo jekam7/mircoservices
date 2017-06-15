@@ -1,0 +1,4 @@
+product_create:
+    path: /product/create
+    defaults: { _controller: AppBundle:Default:createProduct, _format: json }
+    methods: [POST]

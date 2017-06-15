@@ -1,0 +1,15 @@
+# This file is auto-generated during the composer install
+parameters:
+    database_host: mysql_product
+    database_port: null
+    database_name: product
+    database_user: product
+    database_password: kW6B4IUgs
+    mailer_transport: smtp
+    mailer_host: 127.0.0.1
+    mailer_user: null
+    mailer_password: null
+    secret: f02bc4a0dd472b36311ab63d329582994bbfaea0
+    host: localhost
+    user_auth_url: '%host%/user/auth/'
+    product_create_url: '%host%/product/create/'
